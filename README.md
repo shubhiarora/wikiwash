@@ -1,0 +1,2 @@
+# wikiwash
+smoke test wikiwash
